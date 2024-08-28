@@ -1,0 +1,11 @@
+langchain 
+matplotlib 
+pandas 
+streamlit
+langchain-openai
+langchain-community
+langchain_experimental
+pybigquery
+ipykernel
+faiss-cpu
+SQLAlchemy
